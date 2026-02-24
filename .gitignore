@@ -1,0 +1,24 @@
+m-bigearthnet
+venv
+# Python cache/bytecode
+__pycache__
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Model/data artifacts
+*.pt
+*.ckpt
+*.npz
+*.pth
+
+# Logs
+*.log
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

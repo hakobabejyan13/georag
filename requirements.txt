@@ -1,0 +1,8 @@
+numpy>=1.24
+faiss-cpu>=1.7.4
+h5py>=3.8
+tqdm>=4.65
+Pillow>=9.5
+torch>=2.1
+torchvision>=0.16
+transformers>=4.40
